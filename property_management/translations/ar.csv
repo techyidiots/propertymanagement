@@ -1,0 +1,10 @@
+apps/property_management/property_management/config/desktop.py +12,Property Management.,عقارات.
+DocType: Hall Contract,Property Management,عقارات
+apps/property_management/property_management/config/property_management.py +7,Property Masters,سادة الملكية
+apps/property_management/property_management/config/property_management.py +38,Property Records,سجلات الملكية
+apps/property_management/property_management/config/property_management.py +22,Building,العمارات
+apps/property_management/property_management/config/property_management.py +44,Rent Contract,عقد ايجار
+apps/property_management/property_management/config/property_management.py +50,Rent Receipt,ايصال ايجار
+apps/property_management/property_management/config/property_management.py +56,Process Rent,عمليات الايجار
+apps/property_management/property_management/config/property_management.py +62,Collect Rent,جمع الايجار
+apps/property_management/property_management/config/property_management.py +68,Hall Contract,عقد صالة الافراح
